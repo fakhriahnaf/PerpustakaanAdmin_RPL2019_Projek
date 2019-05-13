@@ -1,4 +1,5 @@
 # perpus-laravel
-Cara menggunakan dan selengkapnya bisa kalian buka di website saya gilacoding.com
+Perpustakaan admin
 
-Terimakasih!
+Kelompok 3 RPL 2019 
+
